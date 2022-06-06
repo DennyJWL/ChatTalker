@@ -1,2 +1,2 @@
 # chatTalker
-https://dennyjwl.github.io/chatTalker/
+https://dennyjwl.github.io/chatTalker/charge.html
